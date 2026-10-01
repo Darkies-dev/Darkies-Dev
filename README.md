@@ -24,3 +24,22 @@ I enjoy learning by building practical projects and exploring how software can s
 - Backend Development
 - AI/ML
 - Building full-stack projects
+
+---
+
+## 🎓 Education
+
+**Manipal University Jaipur**  
+B.Tech in Computer Science & Engineering  
+CGPA: **9.55 / 10.00**
+
+---
+
+## 🎯 Areas of Interest
+
+- Software Engineering
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithms
+- Backend Development
+- Database Systems
+- Competitive Programming
